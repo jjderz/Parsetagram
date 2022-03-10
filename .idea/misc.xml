@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/Users/Jake/Desktop/CS 388/Parsetagram/app/src/main/res/layout/activity_login.xml" value="0.490036231884058" />
         <entry key="..\:/Users/Jake/Desktop/CS 388/Parsetagram/app/src/main/res/layout/activity_main.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/Jake/Desktop/CS 388/Parsetagram/app/src/main/res/layout/fragment_compose.xml" value="0.4642210144927536" />
+        <entry key="..\:/Users/Jake/Desktop/CS 388/Parsetagram/app/src/main/res/layout/fragment_posts.xml" value="0.4642210144927536" />
+        <entry key="..\:/Users/Jake/Desktop/CS 388/Parsetagram/app/src/main/res/layout/item_post.xml" value="0.32708333333333334" />
+        <entry key="..\:/Users/Jake/Desktop/CS 388/Parsetagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.5541666666666667" />
         <entry key="..\:/Users/Jake/Desktop/CS 388/Parsetagram/app/src/main/res/xml/fileprovider.xml" value="0.32708333333333334" />
       </map>
     </option>
